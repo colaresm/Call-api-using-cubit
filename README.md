@@ -1,2 +1,5 @@
 # Call-api-using-cubit
-Example of a listing using cubit in flutter
+To run it you can use:
+## flutter run -d chrome 
+
+If you have an emulator in your IDE just call it during the run code
